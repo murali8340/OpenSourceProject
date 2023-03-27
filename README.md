@@ -15,5 +15,8 @@ Intial steps to transfer files from a server to a client using FileZilla, follow
 
 5. Once both the server and the client are connected, you can start transferring files between them. You can drag and drop files from one pane to the other, or you can use the transfer queue to manage multiple file transfers.
 
+
+___
+
 <h3>Installed File Zilla Server on Local Machine</h3>
 <img title="FileZilla Server" alt="FileZilla Server Install" src="/assets/fileZilla_1.png">
