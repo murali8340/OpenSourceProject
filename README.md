@@ -19,4 +19,10 @@ Intial steps to transfer files from a server to a client using FileZilla, follow
 ___
 
 <h3>Installed File Zilla Server on Local Machine</h3>
-<img title="FileZilla Server" alt="FileZilla Server Install" src="/assets/fileZilla_1.png">
+<img title="FileZilla Server" alt="FileZilla Server Install" src="/assets/fileZillaServer.png">
+
+___
+
+<h3>Installed File Zilla Client on Another Machine</h3>
+<img title="FileZilla Clinet" alt="FileZilla Client Install" src="/assets/fileZillaClient.png">
+
