@@ -51,17 +51,17 @@ ___
 <h3><b>Can you explain the process of file transfer from a server to a browser when loading a website?</b></h3>
 <p>Sure, I can explain the process of file transfer from a server to a browser when loading a website. Here is a brief overview:
 <ul>
-<l>A user types a website address (URL) into their browser's address bar or clicks on a hyperlink that leads to a website.</l>
+<li>A user types a website address (URL) into their browser's address bar or clicks on a hyperlink that leads to a website.</li>
 
-The browser sends an HTTP request to the web server that hosts the website. This request contains information about the requested resource, such as the URL, HTTP method, and headers.
+<li>The browser sends an HTTP request to the web server that hosts the website. This request contains information about the requested resource, such as the URL, HTTP method, and headers.</li>
 
-The web server receives the HTTP request and processes it. It determines which resource (e.g., HTML file, image, script) the user is requesting and sends an HTTP response back to the browser.
+<li>The web server receives the HTTP request and processes it. It determines which resource (e.g., HTML file, image, script) the user is requesting and sends an HTTP response back to the browser.</li>
 
-The HTTP response contains the requested resource and other metadata, such as the response status code and headers. For example, if the requested resource is an HTML file, the response will contain the HTML code for the web page.
+<li>The HTTP response contains the requested resource and other metadata, such as the response status code and headers. For example, if the requested resource is an HTML file, the response will contain the HTML code for the web page.</li>
 
-The browser receives the HTTP response and starts rendering the web page. It parses the HTML code, retrieves any external resources (such as images, stylesheets, and scripts) referenced in the HTML, and sends additional HTTP requests for these resources to the web server.
+<li>The browser receives the HTTP response and starts rendering the web page. It parses the HTML code, retrieves any external resources (such as images, stylesheets, and scripts) referenced in the HTML, and sends additional HTTP requests for these resources to the web server.</li>
 
-The web server responds to each HTTP request for external resources by sending the corresponding resource back to the browser in an HTTP response. The browser receives these responses and renders the web page with all of its resources.
+<li>The web server responds to each HTTP request for external resources by sending the corresponding resource back to the browser in an HTTP response. The browser receives these responses and renders the web page with all of its resources.</li>
 </ul>
 The file transfer process from the server to the browser is accomplished through the Hypertext Transfer Protocol (HTTP) and the Transmission Control Protocol (TCP) of the Internet Protocol (IP) suite. This process involves multiple steps and can involve the transfer of many different types of files (HTML, CSS, JavaScript, images, videos, etc.).
 
