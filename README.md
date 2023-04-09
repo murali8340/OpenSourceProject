@@ -68,12 +68,26 @@ The file transfer process from the server to the browser is accomplished through
 
 
 </p>
-__
+___
 <h3><b>Using Firebase For The Projest Instead of FileZilla.</b></h3>
-<img title="FileZilla Clinet" alt="FileZilla Client Install" src="/assets/firebasei.webp">
+<img title="Hosting" alt="Firebase Hosting" src="/assets/firebasei.webp">
 
 <p>The reason for using Firebase hosting over Filezilla for this project is that Filezilla is primarily a file transfer protocol (FTP) client, and it does not provide options for transferring files from the server to the client. While it is possible to use Filezilla to upload files to a server, it is not designed for the type of file transfer required for this project.
 
 Firebase hosting, on the other hand, is a hosting service that allows developers to host web applications and static content. It provides a user-friendly interface to manage hosting and deployment, making it easier to host and deploy web applications. Additionally, Firebase hosting offers faster content delivery, better scalability, and automatic SSL certification compared to traditional hosting solutions.
 
 Furthermore, some Firebase SDKs are open source, which allows developers to customize their application and use it without any cost. For example, Firebase offers open source SDKs for Android, iOS, and web development that can be used to develop robust and scalable applications. These SDKs can be integrated with Firebase hosting, making it easier for developers to deploy and manage their applications.</p>
+___
+<h3>Summery</h3>
+<img title="Server Serving Website" alt="File Transferred" src="/assets/website.png">
+
+<p>
+In this project, the aim is to transfer files from the server to the client using open-source software. However, since file transfer from the server to the client is not possible with Filezilla, Firebase Hosting has been selected as the hosting platform.
+
+Firebase Hosting is a platform provided by Google that allows developers to host their web applications on Google's infrastructure. It is a fully-managed hosting service that provides developers with a fast and secure way to host their web applications, and it supports the deployment of static web content.
+
+To transfer files from the server to the client, we will be hosting a Flutter-built website on Firebase Hosting. The website will act as a bridge between the server and the client, and when accessed from a client device, it will transfer the files from the server to the client.
+
+The types of files that can be transferred from the server to the client using Firebase Hosting include HTML, CSS, JavaScript, and media files such as images and videos. These files will be transferred in their respective formats, and they can be accessed by the client device through the website hosted on Firebase Hosting.
+
+To summarize, in this project, we will be transferring files from the server to the client using open-source software, and we will be using Firebase Hosting as the hosting platform. The files that can be transferred include HTML, CSS, JavaScript, and media files such as images and videos. By hosting a Flutter-built website on Firebase Hosting, we will be able to transfer these files to the client devices when they access the website.</p>
