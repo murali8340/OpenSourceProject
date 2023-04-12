@@ -91,3 +91,9 @@ To transfer files from the server to the client, we will be hosting a Flutter-bu
 The types of files that can be transferred from the server to the client using Firebase Hosting include HTML, CSS, JavaScript, and media files such as images and videos. These files will be transferred in their respective formats, and they can be accessed by the client device through the website hosted on Firebase Hosting.
 
 To summarize, in this project, we will be transferring files from the server to the client using open-source software, and we will be using Firebase Hosting as the hosting platform. The files that can be transferred include HTML, CSS, JavaScript, and media files such as images and videos. By hosting a Flutter-built website on Firebase Hosting, we will be able to transfer these files to the client devices when they access the website.</p>
+
+___
+<h3>Refrences</h3>
+<h4><b>Articles Written By Me On Related Topics</b></h4>
+<ul><li><a href="https://www.geeksforgeeks.org/hosting-flutter-website-on-firebase-for-free/"><b><i>Hosting Flutter Website On Firebase For Free</i></b></a>
+</li></ul>
